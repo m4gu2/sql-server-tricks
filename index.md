@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## SQL Server tricks
 
 You can use the [editor on GitHub](https://github.com/m4gu2/sql-server-tricks/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
